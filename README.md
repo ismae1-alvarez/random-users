@@ -4,6 +4,16 @@ Una aplicación web que consume una API de datos aleatorios, implementa paginaci
 
 ---
 
+## 🌐 Demo en Vivo
+
+Puedes ver una demo de la aplicación en: [https://usersrandom-12.netlify.app/](https://usersrandom-12.netlify.app/)
+
+## 🙏 Créditos
+
+Este proyecto no habría sido posible sin los siguientes ejemplos:
+
+- **[Guia](https://prueba-tecnica-usuarios.vercel.app/)**: Idea tomada de una entrevista de trabajo. 
+
 ## 📌 Características
 
 - Consume una API de datos aleatorios.
@@ -38,3 +48,4 @@ Sigue estos pasos para configurar el proyecto localmente:
 3. Corer la aplicaccion
     ```bash 
     pnpm run dev
+
