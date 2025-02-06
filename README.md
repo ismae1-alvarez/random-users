@@ -29,7 +29,7 @@ Sigue estos pasos para configurar el proyecto localmente:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/ismae1-alvarez/random-users
 
 2. Instalar las Dependencias
     ```bash
